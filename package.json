@@ -1,0 +1,24 @@
+{
+  "name": "reactlearn",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milnavig/coursera_bootstrap.git"
+  },
+  "author": "Alex Tereshchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milnavig/coursera_bootstrap/issues"
+  },
+  "homepage": "https://github.com/milnavig/coursera_bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
