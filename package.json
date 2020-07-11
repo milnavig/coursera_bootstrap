@@ -1,24 +1,21 @@
 {
-  "name": "reactlearn",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "Test",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/milnavig/coursera_bootstrap.git"
-  },
-  "author": "Alex Tereshchenko",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/milnavig/coursera_bootstrap/issues"
-  },
-  "homepage": "https://github.com/milnavig/coursera_bootstrap#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
   }
 }
